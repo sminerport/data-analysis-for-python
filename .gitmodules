@@ -1,0 +1,3 @@
+[submodule "python-for-data-analysis/pydata-book"]
+	path = python-for-data-analysis/pydata-book
+	url = https://github.com/wesm/pydata-book.git
